@@ -1,3 +1,5 @@
+| page | campo |
+| title   | Campo  |
 # Campo Calculado
 Los campos pueden tener valores calculados por una función, en vez de simplemente leer un valor almacenado en una base de datos. Un campo calculado es declarado como un campo regular, pero tiene el argumento “compute” adicional con el nombre de la función que se usará para calcularlo.
 ```python
